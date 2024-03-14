@@ -1,2 +1,2 @@
-<h2>Desktop View</h2>
-<img src="step 1.png" />
+<h2>Output</h2>
+<img src="assets/formdemo.gif" />
